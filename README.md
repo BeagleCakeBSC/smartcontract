@@ -1,5 +1,5 @@
 
-![2](https://beaglecake.io/images/how-to-buy-gif.gif)
+![2](https://beaglecake.io/images/beagle-cake.png)
 
 # BeagleCake smartcontract
 beaglecake.io smartcontract address 0x
@@ -12,7 +12,7 @@ A community-driven, dog-themed protocol with actualuse cases and utility
 
 * VERIFIED CONTRACT : https://bscscan.com/address/0x
 
-![rsz_14](https://beaglecake.io/images/how-to-buy-gif.gif)\
+![rsz_14](https://beaglecake.io/images/logo.png)\
 🦴 Name : BeagleCake\
 🦴 Symbol : BEAGLECAKE\
 🦴 Supply: 1,000,000,000,000,000 BEAGLECAKE\
