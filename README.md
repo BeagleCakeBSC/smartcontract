@@ -2,21 +2,21 @@
 ![2](https://beaglecake.io/images/beagle-cake.png)
 
 # BeagleCake smartcontract
-beaglecake.io smartcontract address 0x
+beaglecake.io smartcontract address: 0x0d8011438c8feb5938D74969ec7B7DDdEDA12054
 
 # Explorer
-https://bscscan.com/address/0x
+https://bscscan.com/address/0x0d8011438c8feb5938d74969ec7b7dddeda12054#code
 
 # Tokenomic
 A community-driven, dog-themed protocol with actualuse cases and utility
 
-* VERIFIED CONTRACT : https://bscscan.com/address/0x
+* VERIFIED CONTRACT : https://bscscan.com/address/0x0d8011438c8feb5938d74969ec7b7dddeda12054#code
 
-![rsz_14](https://beaglecake.io/images/logo.png)\
+![rsz_14](https://beaglecake.io/images/logo.png)
 🦴 Name : BeagleCake\
 🦴 Symbol : BEAGLECAKE\
-🦴 Supply: 1,000,000,000,000,000 BEAGLECAKE\
-🦴 10 % Total Tax Fee (4% Rewards, 3% Auto LP Generation Mechanism, 2% Charity, 1% Auto Burn)\
+🦴 Supply: 100,000,000,000 BEAGLECAKE\
+🦴 15 % Total Tax Fee (7% Redistribution In CAKE, 3% Auto LP Generation Mechanism, 5% Marketing)\
 🦴 50 % Presale\
 🦴 27 % Listings & Liquidity\
 🦴 15 % Burn\
