@@ -8,7 +8,7 @@ beaglecake.io smartcontract address: 0x0d8011438c8feb5938D74969ec7B7DDdEDA12054
 https://bscscan.com/address/0x0d8011438c8feb5938d74969ec7b7dddeda12054#code
 
 # Tokenomic
-A community-driven, dog-themed protocol with actualuse cases and utility
+A Decentralized Meme Token for PancakeSwap Fans Worldwide BeagleCake is a token deployed on the Binance Smart Chain (BSC) that rewards holders in CAKE providing a source of passive income for our investors.
 
 * VERIFIED CONTRACT : https://bscscan.com/address/0x0d8011438c8feb5938d74969ec7b7dddeda12054#code
 
