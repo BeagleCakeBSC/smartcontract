@@ -34,7 +34,7 @@ A Decentralized Meme Token for PancakeSwap Fans Worldwide BeagleCake is a token 
 * WEBSITE : https://beaglecake.io
 * TWITTER :  https://twitter.com/BeagleCakeBSC
 * GITHUB : https://github.com/BeagleCakeBSC
-* AUDIT : https://github.com/TechRate/Smart-Contract-Audits/
+* AUDIT : https://github.com/TechRate/Smart-Contract-Audits/blob/main/October/BEAGLE%20CAKE%20Full%20Smart%20Contract%20Security%20Audit.pdf
 
 # Presale
 * Our DxSale Page: https://dxsale.app/app/pages/
