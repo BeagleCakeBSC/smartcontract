@@ -18,14 +18,13 @@ A community-driven, dog-themed protocol with actualuse cases and utility
 🦴 Symbol : BEAGLECAKE\
 🦴 Supply: 100,000,000,000 BEAGLECAKE\
 🦴 15 % Total Tax Fee (7% Redistribution In CAKE, 3% Auto LP Generation Mechanism, 5% Marketing)\
-🦴 50 % Presale\
-🦴 27 % Listings & Liquidity\
-🦴 15 % Burn\
+🦴 58.5 % Presale\
+🦴 31.5 % Listings & Liquidity\
 🦴 6 % Team & Dev Wallet\
-🦴 2 % Platform fee\
+🦴 3 % DxSale Platform fee\
 🦴 Min: 0.1 BNB\
 🦴 Max: 5 BNB\
-🦴 SoftCap: 2000 BNB\
+🦴 SoftCap: 1500 BNB\
 🦴 HardCap: 3000 BNB\
 🦴 Presale Start time: 23 June at 14:25 UTC\
 🦴 Presale End Time:	 24 Jun 2021 at 14:25 UTC
@@ -38,7 +37,7 @@ A community-driven, dog-themed protocol with actualuse cases and utility
 * AUDIT : https://github.com/TechRate/Smart-Contract-Audits/
 
 # Presale
-* Our DxSale Page: https://dxsale.app/app/pages/\
+* Our DxSale Page: https://dxsale.app/app/pages/
 🐶 Join Our Telegram Channel To Join The Discussion 🐶
 
 # How To Buy BEAGLECAKE
