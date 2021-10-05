@@ -13,6 +13,7 @@ A community-driven, dog-themed protocol with actualuse cases and utility
 * VERIFIED CONTRACT : https://bscscan.com/address/0x0d8011438c8feb5938d74969ec7b7dddeda12054#code
 
 ![rsz_14](https://beaglecake.io/images/logo.png)
+
 🦴 Name : BeagleCake\
 🦴 Symbol : BEAGLECAKE\
 🦴 Supply: 100,000,000,000 BEAGLECAKE\
