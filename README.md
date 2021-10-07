@@ -30,7 +30,7 @@ A Decentralized Meme Token for PancakeSwap Fans Worldwide BeagleCake is a token 
 🦴 Presale End Time:	 18 October 2021 at 16:00 UTC
 
 # Website and Social Media
-* TELEGRAM : https://t.me/BeagleCake
+* TELEGRAM : https://t.me/BeagleCakeBSC
 * WEBSITE : https://beaglecake.io
 * TWITTER :  https://twitter.com/BeagleCakeBSC
 * GITHUB : https://github.com/BeagleCakeBSC
