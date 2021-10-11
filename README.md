@@ -26,8 +26,8 @@ A Decentralized Meme Token for PancakeSwap Fans Worldwide BeagleCake is a token 
 🦴 Max: 5 BNB\
 🦴 SoftCap: 1500 BNB\
 🦴 HardCap: 3000 BNB\
-🦴 Presale Start time: 15 October 2021 at 16:00 UTC
-🦴 Presale End Time:	 18 October 2021 at 16:00 UTC
+🦴 Presale Start time: 15 October 2021 at 1PM UTC
+🦴 Presale End Time:	 18 October 2021 at 1PM UTC
 
 # Website and Social Media
 * TELEGRAM : https://t.me/BeagleCakeBSC
