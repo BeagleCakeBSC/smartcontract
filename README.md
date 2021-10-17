@@ -21,8 +21,6 @@ A Decentralized Meme Token for PancakeSwap Fans Worldwide BeagleCake is a token 
 * GITHUB : https://github.com/BeagleCakeBSC
 * AUDIT : https://github.com/TechRate/Smart-Contract-Audits/blob/main/October/BEAGLE%20CAKE%20Full%20Smart%20Contract%20Security%20Audit.pdf
 
-# Presale
-* Our DxSale Page: https://dxsale.app/app/v3/defipresale?saleID=761&chain=BSC
 🐶 Join Our Telegram Channel To Join The Discussion 🐶
 
 ![3](https://beaglecake.io/images/header-gif.gif)
